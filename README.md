@@ -1,5 +1,4 @@
 # Receptive-Field-Estimation
-# Neural Data Science Project 02: Working with Calcium Data
 
 ## Overview
 This repository contains the code and analysis for Project 02 of the Neural Data Science course. The project investigates whether there is a spatial structure to the location of receptive fields in the visual cortex of mice. The analysis is based on in vivo 2-photon calcium imaging data recorded while mice were performing a visual change detection task.
@@ -16,6 +15,7 @@ Data components include:
 * Stimulus metadata and 16x28 stimulus frames
 * ROI masks for each cell and maximum activity projection
 * Running speed and stimulus epoch tables
+<img width="1389" height="672" alt="a0b332c2-d437-415b-a1a0-b275b660773c" src="https://github.com/user-attachments/assets/b4c0ea1a-62fb-4ddc-b27d-d8cb6c674b21" />
 
 ## Project Pipeline
 The analysis is structured around the following processing steps:
